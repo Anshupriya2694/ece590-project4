@@ -1,0 +1,7 @@
+{
+    "publisher": {
+        "lambda": {
+            "event": 1
+        }
+    }
+}
